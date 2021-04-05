@@ -1,0 +1,29 @@
+{
+    "options":{
+        "1":{
+        "name": "Star",
+        "file": "star.txt"
+        },
+        "2":{
+        "name": "Pulsar",
+        "file": "pulsar.txt"
+        },
+        "3":{
+        "name": "R-pentomino",
+        "file": "rpento.txt"
+        },
+        "4":{
+        "name": "Schmick Engine",
+        "file": "engine.txt"
+        },
+        "5":{
+        "name": "Spartan Constellation",
+        "file": "spartan.txt"
+        },
+        "6":{
+        "name": "Random Pattern",
+        "file": 1
+        }
+    },
+    "generations": 100
+}
